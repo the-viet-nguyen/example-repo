@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.ntviet18</groupId>
-  <artifactId>example-child</artifactId>
+  <artifactId>exampledependent</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161226211739</lastUpdated>
+    <lastUpdated>20161226211951</lastUpdated>
   </versioning>
 </metadata>
